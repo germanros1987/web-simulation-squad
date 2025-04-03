@@ -3,9 +3,9 @@ title: Oasis
 description: >-
   a jekyll site template for Codrops.
 baseurl: ""
-url: ""
+url: "https://germanros1987.github.io/web-simulation-squad/"
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  germanros1987
 
 # Build settings
 markdown: kramdown
